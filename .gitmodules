@@ -1,3 +1,6 @@
 [submodule "bulletin-board-backend"]
 	path = bulletin-board-backend
 	url = git@github.com:yehudabortz/bulletin-board-backend.git
+[submodule "bulletin-board-frontend"]
+	path = bulletin-board-frontend
+	url = git@github.com:yehudabortz/bulletin-board-frontend.git
